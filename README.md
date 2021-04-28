@@ -1,7 +1,7 @@
 ### Hey, I'm Dartic2K! 👋
 
 
-- 🔭 I’m currently working on my application for a school project.
+- 🔭 I’m currently working on my application for a school project and my BetterDiscord Theme.
 - 🌱 I’m currently learning React Native
 ⚡
 -->
