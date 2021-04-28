@@ -11,5 +11,5 @@
 - ⚡ Discord Tag - DARTIIC2K
 - ⚡ Steam - https://steamcommunity.com/id/dartic2k/
 
--->
+
 <img src="https://github-readme-stats.vercel.app/api?username=dartic2k&theme=chartreuse-dark&show_icons=true">
