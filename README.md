@@ -8,7 +8,7 @@
 - https://pilo.ovh/album/mta-real-drift.SnN7
 - 🎥 Youtube channel =
 - https://www.youtube.com/channel/UCNdHhCbgCMXqosoUADPq6-w
-- ⚡ Discord Tag - DARTIIC2K
+- ⚡ Discord Tag - DARTIIC2K#8228
 - ⚡ Steam - https://steamcommunity.com/id/dartic2k/
 
 
